@@ -1,0 +1,31 @@
+Test case #1: CGATTGAAAGTCCATT
+Marker #1: TGA
+
+Test case #2: CATGTGGGGCGATGGGGCTAG
+Marker #2: GGGG
+
+Test case #3: CGATGGTACATGTTGGTCCATT       
+Marker #3: TGGT
+
+Test case #4: TAGTGTGGTACTGTGGTATGC
+Marker #4: TGGT
+
+Test case #5: TGCGACTGGTCAGAGC 
+Marker #5: AC
+
+Test case #6: CATGTTACATGTTA
+Marker #6: G
+
+Test case #7: ATTGAAAAAAAAAAGTTA
+Marker #7: ATTG
+
+Test case #8: ATCGGCTA
+Marker #8: ATCG
+
+Test case #9: UGCAUGCGGCCGGCGUUAGA 	#This is how the code would work if it were reading RNA instead of DNA
+
+Marker #9: UGCG 	
+
+Test case #10: TTTTGATCTTTTCTAGTTTT
+Marker #10: GATC
+
